@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 // Recursive Implementation of 0-1 KnapSack Problem
 
+=======
+>>>>>>> 2633dd4611d6768018f1ebc7e3af87b678c2beee
 #include <iostream>
 using namespace std;
 
